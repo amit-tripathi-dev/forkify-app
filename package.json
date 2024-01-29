@@ -1,0 +1,21 @@
+{
+  "name": "fooda",
+  "version": "1.0.0",
+  "description": "recipe appllication",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "core-js": "^3.35.1",
+    "regenerator-runtime": "^0.14.1",
+    "saas": "^1.0.0"
+  }
+}
